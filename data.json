@@ -246,7 +246,17 @@
         "Quality": "480p",
         "size": "396",
         "description": "When a bank teller discovers he's actually a background player in an open-world video game, he decides to become the hero of his own story - one that he can rewrite himself. In a world where there's no limits, he's determined to save the day his way before it's too late, and maybe find a little romance with the coder who conceived him.",
-        "imageUrl": "https://harsh-jagtap.github.io/1-ImageSet/Free%20Guy.jpg",
+        "imageUrl": "https://harsh-jagtap.github.io/1-ImageSet/Free_20Guy.jpg",
         "downloadUrl": "https://dropgalaxy.in/183vxr7tz1iw"
+    },{
+        "id": 19,
+        "name": "Janatha Garage",
+        "Language": "Hindi",
+        "ReleaseDate": "1 September 2016",
+        "Quality": "480",
+        "size": "529",
+        "description": "Anand, an environmental activist, comes to Hyderabad to attend a seminar. An unexpected encounter with Sathyam, who runs an organization for the oppressed, changes his purpose in life.,
+        "imageUrl": "https://harsh-jagtap.github.io/1-ImageSet/Janatha_Garage.jpg",
+        "downloadUrl": "https://dropgalaxy.in/wp8va4dfhdks"
     }]
 }
