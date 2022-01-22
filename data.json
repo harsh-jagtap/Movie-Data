@@ -1,5 +1,25 @@
 {
     "movie": [{
+
+        "id": 1,
+
+        "name": "Site Closed",
+
+        "Language": "",
+
+        "ReleaseDate": "22 January 2022",
+
+        "Quality": "",
+
+        "size": "000",
+
+        "description": "",
+
+        "imageUrl": "https://harsh-jagtap.github.io/Image/Closed.jpg",
+
+        "downloadUrl":""
+
+    },{
         "id": 1,
         "name": "Dilwale",
         "Language": "Hindi",
